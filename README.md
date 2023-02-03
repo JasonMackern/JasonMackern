@@ -12,3 +12,6 @@ El superusuario es el unico que puede crear productos, editarlos o borrarlos.
 Tiene una pagina de inicio con todo acerca de mi, editable del admin.
 En el admin se puede ingresar con el usuario: "Profesores" y la contraceña: "P12345678".
 Tiene perfil de usuario donde podes registrarte, ingresar y salir o actualizar.
+_________________________________________________________________________________________
+Video: 
+https://www.canva.com/design/DAFZeFZ562Q/zKyqUiSzEd7I4gxUonL2ng/edit?utm_content=DAFZeFZ562Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

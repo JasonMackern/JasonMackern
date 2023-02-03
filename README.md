@@ -1,5 +1,5 @@
 Alumno Jason Mackern. 
-Decidi hacer el trabajo hacerca de una Pizzaria.
+Decidi hacer el trabajo hacerca de una Pizzeria.
 _________________________________________________________________________________________
 En esta página se puede ver:
 El Listado de Pizzas donde estan todas las opciones, también se pueden crear mas Pizzas, editarlas o borrarlas.
